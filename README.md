@@ -8,6 +8,6 @@ python3 2048.py
 ```
 pip install -r requrements.txt
 ```
-##Enjoy your time!
+## Enjoy your time!
 
 **_This project was written on Python!_**
